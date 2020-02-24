@@ -6,11 +6,11 @@ Notes:
 
     Hi! Thanks for reading.
     
-    I split this code over several functions for ease of reading and debugging.
+    I split this code over several functions for ease of reading and debugging. It is in jupyter notebook format but also uploaded as a .py file as github sometimes has trouble loading notebooks.
     
     This also makes it easier to handle a variety of different cases (see below).
   
-    Please note: The code treads (1,4) (4,6) as non-overlapping but you can change this easily, 
+    Please note: The code treats the (1,4) (4,6) as non-overlapping but you can change this easily, 
     note is in the code on line 40.
     
     Cases handled:
