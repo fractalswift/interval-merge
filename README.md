@@ -11,11 +11,12 @@ Notes:
     This also makes it easier to handle a variety of different cases (see below).
   
     Please note: The code treads (1,4) (4,6) as non-overlapping but you can change this easily, 
-    note is in the code
+    note is in the code on line 40.
     
     Cases handled:
     
       Example case: 
+      
       [(1, 3), (5, 12), (4, 10), (20, 25)]
       
       Extra case 1:
