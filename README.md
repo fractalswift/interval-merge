@@ -6,7 +6,9 @@ Notes:
 
     Hi! Thanks for reading.
     
-    I split this code over several functions for ease of reading and debugging. It is in jupyter notebook format but also uploaded as a .py file as github sometimes has trouble loading notebooks.
+    I split this code over several functions for ease of reading and debugging. 
+    It is in jupyter notebook format but also uploaded as a .py file as 
+    github sometimes has trouble loading notebooks.
     
     This also makes it easier to handle a variety of different cases (see below).
   
