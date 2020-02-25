@@ -11,6 +11,8 @@ Notes:
     github sometimes has trouble loading notebooks.
     
     This also makes it easier to handle a variety of different cases (see below).
+    
+    When writing this code I focused on robustness and readability.
   
     Please note: The code treats the (1,4) (4,6) as non-overlapping but you can change this easily, 
     note is in the code on line 40.
